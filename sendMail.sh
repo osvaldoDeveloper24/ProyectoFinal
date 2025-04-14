@@ -10,7 +10,7 @@ if [ ! -f "$ARCHIVO" ]; then
 fi
 
 
-#export ... aquí se coloca la APIKEY de SendGrid
+#AQUÍ SE COLOCA LA APIKEY DE SENDGRID
 DESTINATARIO="wmarenco@ugb.edu.sv"
 REMITENTE="hromeroperla77@gmail.com"
 ASUNTO="Reporte de ventas"
