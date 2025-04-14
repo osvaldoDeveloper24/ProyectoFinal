@@ -1,0 +1,300 @@
+----------------------------------------------
+      TOP 10 PRODUCTOS MÁS VENDIDOS:
+----------------------------------------------
+70 Escalera aluminio 2 bandas 6 pies
+48 Serrucho plegable para podar
+47 Tester digital 600v ac/dc
+46 Manguito plastico para cable eléctrico 1/2pulg
+44 Cocina de gas 1 quemador
+43 Barniz de poliuretano 3000 mate 4l
+40 Manguera refozada para jardín 3/4 pulg x 100 pies
+38 Caja octagonal 4 pulg
+35 Canal para piso 50x12mm
+34 Regadera plastica 8l
+----------------------------------------------
+      TOTAL DE INGRESOS POR CATEGORÍA:
+----------------------------------------------
+Accesorios para baños: 361.96
+Aislantes eléctricos: 821.40
+Audio y video: 238.45
+Cafeteras y teteras: 703.05
+Cocina: 1255.55
+Decoracion para baño: 360.15
+Escaleras: 6506.20
+Herramientas para jardín: 666.00
+Innodoros: 469.80
+Interruptores residenciales: 140.65
+Lámparas led: 82.80
+lavamanos: 874.10
+Licuadoras: 299.60
+Linternas: 169.98
+Luminarias de interior: 592.95
+Microondas: 629.90
+pegamentos : 227.00
+Pinturas: 420.74
+Planchas: 72.82
+Protectores para madera: 2221.95
+Riego: 1851.75
+Tester y probadores: 2028.25
+Tostadores de pan: 219.75
+Tubería eléctrica: 365.26
+Ventiladores: 1955.80
+----------------------------------------------
+      TOTAL DE INGRESOS POR MES:
+----------------------------------------------
+2023-01: 1232.81
+2023-02: 2523.21
+2023-03: 5059.91
+2023-04: 4384.25
+2023-05: 2524.93
+2023-06: 2656.10
+2023-07: 2757.45
+2023-08: 2397.20
+----------------------------------------------
+      TOTAL DE INGRESOS POR CLIENTES:
+----------------------------------------------
+Alberto Salazar: 472.50
+Alicia Cárdenas: 494.55
+Ana Castro: 8.40
+Ana Fuentes: 1.25
+Ana Martínez: 43.00
+Ana Torres: 2.00
+Andrea Castillo: 372.25
+Andrés Silva: 137.90
+Andrés Vargas: 230.00
+Armando Rojas: 3039.17
+Beatriz Álvarez: 91.25
+Carlos Aguilar: 9.75
+Carlos Castro: 219.80
+Carlos López: 0.78
+Carmen Torres: 83.75
+Carolina Salazar: 45.00
+Carolina Salinas: 221.99
+Claudia Peña: 83.40
+Cliente: 0.00
+Cristian Cortés: 33.00
+David Jiménez: 1.95
+Diego Romero: 522.60
+Elena Mendoza: 71.65
+Emiliano Salas: 219.75
+Ernesto Salinas: 196.35
+Estefanía Medina: 233.60
+Fabiola Mendoza: 123.85
+Felipe Acosta: 117.30
+Fernando Ortiz: 239.80
+Fernando Ramírez: 5.20
+Gabriela Torres: 59.70
+Grabiela Medina: 290.00
+Gustavo León: 149.60
+Hugo Bravo: 950.00
+Isabel Vargas: 49.90
+Javier Morales: 54.20
+Joaquín  León: 107.90
+Joel Romero: 3.45
+José Días: 146.45
+José Hernández: 261.60
+Juan Pérez: 90.00
+Julián Aguirre: 72.50
+Julián Escobar: 75.00
+Karina Sorto: 23.90
+Karla Navarro: 800.00
+Kenia Molina: 32.20
+Kevin Ramírez: 243.25
+Laura Ramos: 22.20
+Laura Sánchez: 35.50
+Leonardo Pizarro: 37.60
+Letica Rivas: 59.76
+Lilia Jiménez: 35.90
+Lucía Villalobos: 1087.40
+Luis Rodríguez: 32.25
+Manuel Ortega: 115.85
+María González: 47.05
+Mariana Ríos: 59.50
+Miguel Soto: 135.80
+Mónica Parra: 1958.35
+Natalia Quiroz: 294.90
+Nicolás Calderón: 41.00
+Oscar Guzmán: 2304.60
+Osvaldo García: 257.75
+Patricia Castro: 19.95
+Patricia Herrera: 72.15
+Patricia López: 618.70
+Paula Aguirre: 165.00
+Pedro Castillo: 78.16
+Pedro Sorto: 8.95
+Ramón Quiñones: 36.00
+Raúl Villanueva: 113.40
+Ricardo Cordero: 349.45
+Rosa Castro: 298.40
+Samuel Aguayo: 110.85
+Santiafo López: 53.85
+Sergio Paredes: 570.00
+Sofía Fernández: 26.25
+Teresa Mendoza: 617.75
+Teresa Ruiz: 600.80
+Tomás Andrade: 180.65
+Valeria Ceballos: 147.20
+Verónica Castañeda: 1240.00
+Victoriano Zamora: 152.55
+Viviana Palacios: 195.60
+Yessica Morales: 623.35
+----------------------------------------------
+      REPORTE DE INGRESOS POR DEPARTAMENTO
+----------------------------------------------
+Baños: 2066.01
+Electrodomésticos: 3180.67
+Eléctrico: 3594.01
+Iluminación: 845.73
+Jardinería: 2517.75
+Pintura: 9375.89
+Ventilacion: 1955.80
+----------------------------------------------
+      TOP 10 PRODUCTOS MÁS VENDIDOS:
+----------------------------------------------
+70 Escalera aluminio 2 bandas 6 pies
+48 Serrucho plegable para podar
+47 Tester digital 600v ac/dc
+46 Manguito plastico para cable eléctrico 1/2pulg
+44 Cocina de gas 1 quemador
+43 Barniz de poliuretano 3000 mate 4l
+40 Manguera refozada para jardín 3/4 pulg x 100 pies
+38 Caja octagonal 4 pulg
+35 Canal para piso 50x12mm
+34 Regadera plastica 8l
+----------------------------------------------
+      TOTAL DE INGRESOS POR CATEGORÍA:
+----------------------------------------------
+Accesorios para baños: 361.96
+Aislantes eléctricos: 821.40
+Audio y video: 238.45
+Cafeteras y teteras: 703.05
+Cocina: 1255.55
+Decoracion para baño: 360.15
+Escaleras: 6506.20
+Herramientas para jardín: 666.00
+Innodoros: 469.80
+Interruptores residenciales: 140.65
+Lámparas led: 82.80
+lavamanos: 874.10
+Licuadoras: 299.60
+Linternas: 169.98
+Luminarias de interior: 592.95
+Microondas: 629.90
+pegamentos : 227.00
+Pinturas: 420.74
+Planchas: 72.82
+Protectores para madera: 2221.95
+Riego: 1851.75
+Tester y probadores: 2028.25
+Tostadores de pan: 219.75
+Tubería eléctrica: 365.26
+Ventiladores: 1955.80
+----------------------------------------------
+      TOTAL DE INGRESOS POR MES:
+----------------------------------------------
+2023-01: 1232.81
+2023-02: 2523.21
+2023-03: 5059.91
+2023-04: 4384.25
+2023-05: 2524.93
+2023-06: 2656.10
+2023-07: 2757.45
+2023-08: 2397.20
+----------------------------------------------
+      TOTAL DE INGRESOS POR CLIENTES:
+----------------------------------------------
+Alberto Salazar: 472.50
+Alicia Cárdenas: 494.55
+Ana Castro: 8.40
+Ana Fuentes: 1.25
+Ana Martínez: 43.00
+Ana Torres: 2.00
+Andrea Castillo: 372.25
+Andrés Silva: 137.90
+Andrés Vargas: 230.00
+Armando Rojas: 3039.17
+Beatriz Álvarez: 91.25
+Carlos Aguilar: 9.75
+Carlos Castro: 219.80
+Carlos López: 0.78
+Carmen Torres: 83.75
+Carolina Salazar: 45.00
+Carolina Salinas: 221.99
+Claudia Peña: 83.40
+Cliente: 0.00
+Cristian Cortés: 33.00
+David Jiménez: 1.95
+Diego Romero: 522.60
+Elena Mendoza: 71.65
+Emiliano Salas: 219.75
+Ernesto Salinas: 196.35
+Estefanía Medina: 233.60
+Fabiola Mendoza: 123.85
+Felipe Acosta: 117.30
+Fernando Ortiz: 239.80
+Fernando Ramírez: 5.20
+Gabriela Torres: 59.70
+Grabiela Medina: 290.00
+Gustavo León: 149.60
+Hugo Bravo: 950.00
+Isabel Vargas: 49.90
+Javier Morales: 54.20
+Joaquín  León: 107.90
+Joel Romero: 3.45
+José Días: 146.45
+José Hernández: 261.60
+Juan Pérez: 90.00
+Julián Aguirre: 72.50
+Julián Escobar: 75.00
+Karina Sorto: 23.90
+Karla Navarro: 800.00
+Kenia Molina: 32.20
+Kevin Ramírez: 243.25
+Laura Ramos: 22.20
+Laura Sánchez: 35.50
+Leonardo Pizarro: 37.60
+Letica Rivas: 59.76
+Lilia Jiménez: 35.90
+Lucía Villalobos: 1087.40
+Luis Rodríguez: 32.25
+Manuel Ortega: 115.85
+María González: 47.05
+Mariana Ríos: 59.50
+Miguel Soto: 135.80
+Mónica Parra: 1958.35
+Natalia Quiroz: 294.90
+Nicolás Calderón: 41.00
+Oscar Guzmán: 2304.60
+Osvaldo García: 257.75
+Patricia Castro: 19.95
+Patricia Herrera: 72.15
+Patricia López: 618.70
+Paula Aguirre: 165.00
+Pedro Castillo: 78.16
+Pedro Sorto: 8.95
+Ramón Quiñones: 36.00
+Raúl Villanueva: 113.40
+Ricardo Cordero: 349.45
+Rosa Castro: 298.40
+Samuel Aguayo: 110.85
+Santiafo López: 53.85
+Sergio Paredes: 570.00
+Sofía Fernández: 26.25
+Teresa Mendoza: 617.75
+Teresa Ruiz: 600.80
+Tomás Andrade: 180.65
+Valeria Ceballos: 147.20
+Verónica Castañeda: 1240.00
+Victoriano Zamora: 152.55
+Viviana Palacios: 195.60
+Yessica Morales: 623.35
+----------------------------------------------
+      REPORTE DE INGRESOS POR DEPARTAMENTO
+----------------------------------------------
+Baños: 2066.01
+Electrodomésticos: 3180.67
+Eléctrico: 3594.01
+Iluminación: 845.73
+Jardinería: 2517.75
+Pintura: 9375.89
+Ventilacion: 1955.80
